@@ -1,4 +1,4 @@
-![Linux] (https://fbc232d7-a-62cb3a1a-s-sites.googlegroups.com/site/sistemasoperativoshn/familia-unix/descarga%20%282%29.jpg?attachauth=ANoY7coDnIfIlPQuRGNLr55797-fLalVLsx76Re5yeBcNBrf8ASnd-_E780IIe4dfgx7Z9eS738tJ2wDJUO4nqq42YEnHjnSPxKlnr3f3uW-BYVfG730-KnSfcB0VLG2gCU70YuKjX1GBxSjVy6vxDJuD_T0k6slkUvuAKQ1laP7gxfuxdPW66xWf9X9-xJYLqrYzes_qM6jIMtaqvzKeNnZiq7othccjZfVzBO9klKo9fT8g_6j1g-q5yqz8MKE6WKbpctO27n-&attredirects=0)
+![Linux] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.caracteristicas.co%2Fwp-content%2Fuploads%2F2018%2F08%2FSistema-unix-min-e1534876624125.jpg&imgrefurl=https%3A%2F%2Fwww.caracteristicas.co%2Funix%2F&tbnid=skkxjlnVLcj22M&vet=12ahUKEwjkwdbOpNr0AhUKON8KHbicBd4QMygFegUIARC2AQ..i&docid=B-ipEOmX0_GVnM&w=802&h=400&itg=1&q=unix&ved=2ahUKEwjkwdbOpNr0AhUKON8KHbicBd4QMygFegUIARC2AQ)
 
   **Comentario del deber 1.1**
 
