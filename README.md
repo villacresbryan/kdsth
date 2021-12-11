@@ -6,7 +6,7 @@
 **Ejercicio 1.1**       
       
       
-    ~~~
+   
     cd ../../
 cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013  
 
@@ -58,8 +58,9 @@ y done se pone para finalizar
   for r in ../Saavedra2013/*.txt; do head -n 1 $r | tr -d " " | tr -d "\n" | wc -c; done  
     
     posteriormente como se repite lo mismo al inicio nos saltamos esa explicacion.  
-    el comando head -n 1 se usa para selecionar la primera fila del archivo .txt posteriormente se usa el comando tr -d para eliminar el espacio, tambien se elimina el espacio final con "tr -d "\n" " por con siguiente se usa el comando wc - c  para contar los caracteres y finalmente se uso el done para finalizar.   
- 
-![Linux](https://fbc232d7-a-62cb3a1a-s-sites.googlegroups.com/site/sistemasoperativoshn/familia-unix/descarga%20%282%29.jpg?attachauth=ANoY7co2VSYSuMmeFswBRkyXc_oNDDCe_SMYR7PyGwzXFNjXv3UKs0dr_nHuCrU6jCakAkBOCQriaCLvqVMfg6lFCHR6xYxnW3D1RE4a1NzTOggekOxdNamIzj87cZCJEhaJGxrwPHBYG4hR__6xC-f3ndaHS1UQcnM7GHNacUdLUhp-rIUYJlbzJX_es31F2DBzIleus8PCqdJUUMwG03sIfzWOl88NfRdjgnbpOXTLsFqxXj-s3fGcx9PSYpVe9t1wyMF6f4UT&attredirects=0)
+    el comando head -n 1 se usa para selecionar la primera fila del archivo .txt posteriormente se usa el comando tr -d para eliminar el espacio, tambien se elimina el espacio final con "tr -d "\n" " por con siguiente se usa el comando wc - c  para contar los caracteres y finalmente se uso el done para finalizar.     
+      
+      ![Linux](https://fbc232d7-a-62cb3a1a-s-sites.googlegroups.com/site/sistemasoperativoshn/familia-unix/descarga%20%282%29.jpg?attachauth=ANoY7co2VSYSuMmeFswBRkyXc_oNDDCe_SMYR7PyGwzXFNjXv3UKs0dr_nHuCrU6jCakAkBOCQriaCLvqVMfg6lFCHR6xYxnW3D1RE4a1NzTOggekOxdNamIzj87cZCJEhaJGxrwPHBYG4hR__6xC-f3ndaHS1UQcnM7GHNacUdLUhp-rIUYJlbzJX_es31F2DBzIleus8PCqdJUUMwG03sIfzWOl88NfRdjgnbpOXTLsFqxXj-s3fGcx9PSYpVe9t1wyMF6f4UT&attredirects=0)
   
-
+  
+  Nombre: Bryan Villacres 
