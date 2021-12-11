@@ -30,7 +30,7 @@ wc -L para contar el numero de lineas
   ***bash netsize.sh > netsize.txt***   
   Asi podemos tener la imprecion de los resultados en el .txt
   
-  **Ejercicio 1.2**     
+***Ejercicio 1.2***     
   Escriba un guión que imprima el número de filas y 
 columnas para cada red   
   
