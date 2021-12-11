@@ -20,10 +20,14 @@ cat se uso para imprimir
 | cocatenar funciones  
 wc -L para contar el numero de lineas      
   
-  **Ejercicio 1.2** 
+  **Ejercicio 1.2**     
+  Escriba un guión que imprima el número de filas y 
+columnas para cada red  
 
-Escriba un guión que imprima el número de filas y 
-columnas para cada red   
+  touch netsize.sh  (se crea un archivo .sh)  
+se usa el comando "Nano" para editar el contenido de .sh en este caso se podra lo siguiente en el nano 
+
+  
   
   
 head -n1 ../Saavedra2013/n1.txt | tr -d " " | tr -d "\n" | wc -c  
