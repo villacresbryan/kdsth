@@ -4,7 +4,9 @@
 
 ![Linux](https://www.agua.imdea.org/sites/default/files/images/news/2016-11/logo_ikiam.png)
     
-    **Comentario del deber 1.1**      
+    ***Comentario del deber 1.1***       
+      
+      
     ~~~
     cd ../../
 cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013  
