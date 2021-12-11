@@ -4,14 +4,17 @@
 
 ![Linux](https://www.agua.imdea.org/sites/default/files/images/news/2016-11/logo_ikiam.png)  
 **Ejercicio 1.1**       
-      
+        
+   ***touch netsize.txt***   
+   ***touch netsize_all.txt***   
+   Se crea los archivos con terminacion .txt para guardar los resultados
       
    
    
    
   ***touch netsize.sh***   
   se crea un archivo .sh  
-se usa el comando "Nano" para editar el contenido de .sh en este caso se podra lo siguiente en el nano   
+se usa el comando "Nano" para editar el contenido de netsize.sh en este caso se podra lo siguiente en el nano netsize.sh   
     ***cd ../../  
     cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013*** 
 
@@ -72,7 +75,7 @@ y done se pone para finalizar
    ***bash netsize_all.sh > netsize_all.txt***    
         
       
-     de esta manera los resultados se irian a archivo ya creado con terminacion .txt solo se guardarian los resultados. 
+     de esta manera los resultados se irian a archivo ya con terminacion netsize_all.txt. 
       
      
   
