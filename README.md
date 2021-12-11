@@ -1,4 +1,6 @@
-![Linux](https://fbc232d7-a-62cb3a1a-s-sites.googlegroups.com/site/sistemasoperativoshn/familia-unix/descarga%20%282%29.jpg?attachauth=ANoY7co2VSYSuMmeFswBRkyXc_oNDDCe_SMYR7PyGwzXFNjXv3UKs0dr_nHuCrU6jCakAkBOCQriaCLvqVMfg6lFCHR6xYxnW3D1RE4a1NzTOggekOxdNamIzj87cZCJEhaJGxrwPHBYG4hR__6xC-f3ndaHS1UQcnM7GHNacUdLUhp-rIUYJlbzJX_es31F2DBzIleus8PCqdJUUMwG03sIfzWOl88NfRdjgnbpOXTLsFqxXj-s3fGcx9PSYpVe9t1wyMF6f4UT&attredirects=0)
+  
+# Deber 1.10.3
+  ![Linux](https://fbc232d7-a-62cb3a1a-s-sites.googlegroups.com/site/sistemasoperativoshn/familia-unix/descarga%20%282%29.jpg?attachauth=ANoY7co2VSYSuMmeFswBRkyXc_oNDDCe_SMYR7PyGwzXFNjXv3UKs0dr_nHuCrU6jCakAkBOCQriaCLvqVMfg6lFCHR6xYxnW3D1RE4a1NzTOggekOxdNamIzj87cZCJEhaJGxrwPHBYG4hR__6xC-f3ndaHS1UQcnM7GHNacUdLUhp-rIUYJlbzJX_es31F2DBzIleus8PCqdJUUMwG03sIfzWOl88NfRdjgnbpOXTLsFqxXj-s3fGcx9PSYpVe9t1wyMF6f4UT&attredirects=0)
 
   **Comentario del deber 1.1**
 
