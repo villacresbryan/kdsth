@@ -13,7 +13,7 @@
    
    
   ***touch netsize.sh***   
-  se crea un archivo .sh  
+  se crea un archivo netsize.sh  
 se usa el comando "Nano" para editar el contenido de netsize.sh en este caso se podra lo siguiente en el nano netsize.sh   
     ***cd ../../  
     cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013*** 
