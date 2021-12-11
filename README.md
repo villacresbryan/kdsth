@@ -12,7 +12,7 @@
 cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013  
 
 cat ../Saavedra2013/n1.txt | wc -l  
-~~~
+
 
 (Primero localizamos el directorio deseado, en este caso Saavedra2013 se usa el comando (cd ../) para regresar, (cd) para ingresar a la libreria)  
 
