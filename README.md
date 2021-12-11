@@ -1,7 +1,8 @@
   
 # Deber 1.10.3
-![Ikiam](https://es.wikipedia.org/wiki/Universidad_Regional_Amaz%C3%B3nica_Ikiam#/media/Archivo:Logotipo_Ikiam.png)
 
+
+![Linux](https://www.agua.imdea.org/sites/default/files/images/news/2016-11/logo_ikiam.png)
   **Comentario del deber 1.1**
 
 cat se uso para imprimir  
