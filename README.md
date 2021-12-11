@@ -7,29 +7,33 @@
       
       
    
+   
+   
+  touch netsize.sh   
+  se crea un archivo .sh  
+se usa el comando "Nano" para editar el contenido de .sh en este caso se podra lo siguiente en el nano   
     cd ../../
 cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013  
 
 cat ../Saavedra2013/n1.txt | wc -l  
-~~~
 
 (Primero localizamos el directorio deseado, en este caso Saavedra2013 se usa el comando (cd ../) para regresar, (cd) para ingresar a la libreria)  
 
 cat se uso para imprimir  
 ../ para regresar en el directorio  
 | cocatenar funciones  
-wc -L para contar el numero de lineas      
+wc -L para contar el numero de lineas  
+  
+  bash netsize.sh > netsize.txt   
+  Asi podemos tener la imprecion de los resultados en el .txt
   
   **Ejercicio 1.2**     
   Escriba un guión que imprima el número de filas y 
-columnas para cada red  
-
-  touch netsize.sh  (se crea un archivo .sh)  
-se usa el comando "Nano" para editar el contenido de .sh en este caso se podra lo siguiente en el nano 
-
+columnas para cada red   
   
-  
-  
+    
+   
+    
 head -n1 ../Saavedra2013/n1.txt | tr -d " " | tr -d "\n" | wc -c  
   
   Para poder realizar este ejercicio se tomo la primera fila del documento .txt, usando los siguientes comandos  
@@ -62,7 +66,16 @@ y done se pone para finalizar
   for r in ../Saavedra2013/*.txt; do head -n 1 $r | tr -d " " | tr -d "\n" | wc -c; done  
     
     posteriormente como se repite lo mismo al inicio nos saltamos esa explicacion.  
-    el comando head -n 1 se usa para selecionar la primera fila del archivo .txt posteriormente se usa el comando tr -d para eliminar el espacio, tambien se elimina el espacio final con "tr -d "\n" " por con siguiente se usa el comando wc - c  para contar los caracteres y finalmente se uso el done para finalizar.  
+    el comando head -n 1 se usa para selecionar la primera fila del archivo .txt posteriormente se usa el comando tr -d para eliminar el espacio, tambien se elimina el espacio final con "tr -d "\n" " por con siguiente se usa el comando wc - c  para contar los caracteres y finalmente se uso el done para finalizar.    
+      
+      #Para transformar a .txt los resultados se hizo lo siguiente     
+     
+     bash netsize_all.sh > netsize_all.txt    
+        
+      
+     de esta manera los resultados se irian a archivo ya creado con terminacion .txt solo se guardarian los resultados. 
+      
+     
   
   
       Nombre: Bryan Villacres 
